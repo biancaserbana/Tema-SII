@@ -1,14 +1,12 @@
-# Tema-SII
-
-# Proiectul de Detectare a Știrilor False
+# Tema-SII - Detectarea Știrilor False
 
 Acest proiect are ca scop detectarea știrilor false folosind un model de învățare automată bazat pe rețele neuronale. Modelul utilizează un model pre-antrenat Camembert, care este varianta BERT adaptată pentru limba franceză.
 
 Modelul este antrenat pentru a clasifica articolele de știri în trei categorii:
 
-- **True**: Știri adevărate.
-- **Fake**: Știri false.
-- **Biased**: Știri părtinitoare.
+- **True**: Știri adevărate
+- **Fake**: Știri false
+- **Biased**: Știri subiective
 
 
 1. **Preprocesarea datelor**:
