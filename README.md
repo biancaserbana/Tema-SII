@@ -20,7 +20,7 @@ Modelul este antrenat pentru a clasifica articolele de știri în trei categorii
 
 4. **Rezultate**:
    - Acuratețea obținută pe setul de testare este de **0.836**, ceea ce înseamnă că modelul a prezis corect aproximativ 83.6% dintre etichetele testate.
-train.csv: Set de date utilizat pentru antrenare;
-test.csv: Set de date utilizat pentru predicții;
-predictions.csv: Setul de test completat cu predicțiile.
+   - train.csv: Set de date utilizat pentru antrenare;
+   - test.csv: Set de date utilizat pentru predicții;
+   - predictions.csv: Setul de test completat cu predicțiile.
 
